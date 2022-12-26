@@ -8,7 +8,7 @@ public class Main {
 	public static void main(String[] args){ 
 		
 		int count = 0;					// 입력받을 숫자의 개수 
-		int[] num;						// 입력받을 숫자 
+		int[] num;						// 입력받을 배열 
 		int search;						// 검색할 숫자 
 		int searchCheck = 0;			// 검색한 숫자 체크 
 		int a;

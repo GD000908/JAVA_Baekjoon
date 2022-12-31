@@ -14,7 +14,7 @@ public class Main {
 		}
         
 		in.close();
-		Arrays.sort(arr); //배열을 오름차순으로 정렬해준다. 
-		System.out.print(arr[0] + " " + arr[N - 1]); //오름차순이므로 arr[0]은 최대값. arr[N-1]은 최소값
+		Arrays.sort(arr); //배열을 차순으로 정렬해준다. 
+		System.out.print(arr[0] + " " + arr[N - 1]); //오름차순이므로 arr[0]은 최소값. arr[N-1]은 최대값
 	}
 }

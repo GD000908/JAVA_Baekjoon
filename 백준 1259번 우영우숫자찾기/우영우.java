@@ -12,8 +12,8 @@ public class Main {
 			String[] arr2 = new String[N.length()];
 			
 			for(int i=0;i<N.length();i++) {
-         arr[i] = N.substring(i,i+1);
-      }
+         			arr[i] = N.substring(i,i+1);
+      			}
 			
 			//배열 reverse
 			for(int i=0;i<N.length();i++) {

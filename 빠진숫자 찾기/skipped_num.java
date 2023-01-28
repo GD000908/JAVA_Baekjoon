@@ -1,3 +1,5 @@
+//백준 5597번
+// 여러숫자들을 입력한후에 빠져있는 숫자가 어떤것인지 찾는다. 
 import java.util.Scanner;
 
 public class Main {
